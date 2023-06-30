@@ -8,3 +8,9 @@ ER shows entity relations.
 #### Tables
 Tables, data, and SQL codes.
 [SQL Tables and Data.pdf](https://github.com/Seiedsi/DB-Project/files/11919012/SQL.Tables.and.Data.pdf)
+##### Report
+Shows what I've done in this project.[report.md](https://github.com/Seiedsi/DB-Project/files/11919455/report.md)
+[report.pdf](https://github.com/Seiedsi/DB-Project/files/11919457/report.pdf)
+
+
+
